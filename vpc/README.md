@@ -1,4 +1,4 @@
-## Create VPC:
+## Create VPC
 
 - Create VPC<br>
 - Give CIDR<br>
