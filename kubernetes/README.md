@@ -1,0 +1,1 @@
+Use `kubectl config view` shows all the configuration. <br>
